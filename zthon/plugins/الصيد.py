@@ -208,7 +208,7 @@ def gen_user(choice):
 
 ZelzalChecler_cmd = (
 
-    "𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘 - أوامـر الصيد والتشيكـر](t.me/Repethone) 𓆪\n\n"
+    "𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗪𝗢𝗟𝗙 - أوامـر الصيد والتشيكـر](t.me/INNV8) 𓆪\n\n"
 
     "**✾╎قـائمـة أوامـر تشيكـر صيـد معـرفات تيليجـرام :** \n\n"
 
@@ -258,9 +258,9 @@ ZelzalChecler_cmd = (
 
     "**⪼ التثبيت هو تثبيت يوزر محدد حتى ماينسرق منك عندما يصير متاح**\n\n"
 
-    "**- انضـم للقنـاة ~ @Repethone**\n"
+    "**- انضـم للقنـاة ~ @INNV8**\n"
 
-    "**⪼ لـ رؤيـة بعـض اليـوزرات التي قام بصيدهـا منصبيـن ريبيثون**\n\n"
+    "**⪼ لـ رؤيـة بعـض اليـوزرات التي قام بصيدهـا منصبيـن ولف**\n\n"
 
 )
 
@@ -268,7 +268,7 @@ ZelzalChecler_cmd = (
 
 ZelzalType_cmd = (
 
-"𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘 - أنـواع اليـوزرات](t.me/Repethone) 𓆪\n\n"
+"𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗪𝗢𝗟𝗙 - أنـواع اليـوزرات](t.me/INNV8) 𓆪\n\n"
 
 "**✾╎قـائمـة أنـواع اليـوزرات التي يمكـن صيدهـا مـع الأمثـلة :** \n\n"
 
@@ -292,9 +292,9 @@ ZelzalType_cmd = (
 
 "⪼  `.صيد سداسي حرفين`\n\n\n"
 
-"**- انضـم للقنـاة ~ @Repethone**\n"
+"**- انضـم للقنـاة ~ @INNV8**\n"
 
-"**⪼ لـ رؤيـة بعـض اليـوزرات التي قام بصيدهـا منصبيـن ريبيثون**"
+"**⪼ لـ رؤيـة بعـض اليـوزرات التي قام بصيدهـا منصبيـن ولف**"
 
 )
 
@@ -396,13 +396,13 @@ async def hunterusername(event):
 
                     event.chat_id,
 
-                    f"- Done : @{username} ✅\n- By : @Repethone \n- Hunting Log {trys[0]}",
+                    f"- Done : @{username} ✅\n- By : @INNV8 \n- Hunting Log {trys[0]}",
 
                 )
 
                 await event.client.send_message(
 
-                    "@IC_X_K", f"- Done : @{username} ✅\n- By : @Repethone \n- Hunting Log {trys[0]}",
+                    "@IC_X_K", f"- Done : @{username} ✅\n- By : @INNV8 \n- Hunting Log {trys[0]}",
 
                 )
 
@@ -500,9 +500,9 @@ async def _(event):
 
             functions.channels.CreateChannelRequest(
 
-                title="تثبيت ريبيثون 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘",
+                title="تثبيت ولف 𝗪𝗢𝗟𝗙",
 
-                about="تم تثبيت اليـوزر بواسطـة سـورس ريبيثون - @Repethone ",
+                about="تم تثبيت اليـوزر بواسطـة سـورس ولف - @INNV8 ",
 
             )
 
@@ -554,7 +554,7 @@ async def _(event):
 
                     event.chat_id,
 
-                    f"- Done : @{username} \n- Save: ❲ Channel ❳\n- By : @Repethone \n- Hunting Log {trys2[0]}",
+                    f"- Done : @{username} \n- Save: ❲ Channel ❳\n- By : @INNV8 \n- Hunting Log {trys2[0]}",
 
                 )
 
@@ -562,7 +562,7 @@ async def _(event):
 
                     "@EEc5e",
 
-                    f"- Done : @{username} \n- Save: ❲ Channel ❳\n- By : @Repethone \n- Hunting Log {trys2[0]}",
+                    f"- Done : @{username} \n- Save: ❲ Channel ❳\n- By : @INNV8 \n- Hunting Log {trys2[0]}",
 
                 )
 
@@ -662,7 +662,7 @@ async def _(event): # Code Update by @zzzzl1l
 
                     event.chat_id,
 
-                    f"- Done : @{username} \n- Save: ❲ Account ❳\n- By : @Repethone \n- Hunting Log {trys2[0]}",
+                    f"- Done : @{username} \n- Save: ❲ Account ❳\n- By : @INNV8 \n- Hunting Log {trys2[0]}",
 
                 )
 
@@ -670,7 +670,7 @@ async def _(event): # Code Update by @zzzzl1l
 
                     "@IC_X_K",
 
-                    f"- Done : @{username} \n- Save: ❲ Account ❳\n- By : @Repethone \n- Hunting Log {trys2[0]}",
+                    f"- Done : @{username} \n- Save: ❲ Account ❳\n- By : @INNV8 \n- Hunting Log {trys2[0]}",
 
                 )
 
