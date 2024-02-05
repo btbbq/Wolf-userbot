@@ -330,13 +330,13 @@ async def inline_handler(event):  # sourcery no-metrics
 
             (
 
-                Button.url("قنـاة السـورس", "https://t.me/Repethone"),
+                Button.url("قنـاة السـورس", "https://t.me/INNV8"),
 
                 Button.url(
 
                     "مطـور السـورس",
 
-                    "https://t.me/EEc5e",
+                    "https://t.me/ولف",
 
                 ),
 
@@ -354,7 +354,7 @@ async def inline_handler(event):  # sourcery no-metrics
 
         text, msg_entities = await event.client._parse_message_text(
 
-            "𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝐑𝐄𝐏𝐄𝐓𝐇𝐎𝐍𝐄⛤.", "md"
+            "𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗪𝗢𝗟𝗙.", "md"
 
         )
 
@@ -364,11 +364,11 @@ async def inline_handler(event):  # sourcery no-metrics
 
             type="photo",
 
-            title="𝐑𝐄𝐏𝐄𝐓𝐇𝐎𝐍𝐄⛤ 𓅛",
+            title="𝗪𝗢𝗟𝗙 𓅛",
 
             description="روابـط التنصـيب",
 
-            url="https://t.me/Repethone",
+            url="https://t.me/INNV8",
 
             thumb=photo,
 
