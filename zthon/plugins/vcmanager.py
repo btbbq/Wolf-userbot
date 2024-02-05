@@ -1,6 +1,6 @@
-#تعريب وتحديث فريق ريفز
-# Refz UsetBot T.me/def_Zoka
-# Devolper Senzir T.me/IC_X_K
+#تعريب وتحديث فريق ولف
+# 𝗦𝗢𝗨𝗥𝗖𝗘 𝗪𝗢𝗟𝗙 T.me/INNV8
+# Devolper Farouk T.me/NNZZOK
 from telethon import functions
 from telethon.errors import ChatAdminRequiredError, UserAlreadyInvitedError
 from telethon.tl.types import Channel, Chat, User
