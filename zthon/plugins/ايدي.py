@@ -37,12 +37,12 @@ from . import spamwatch
 plugin_category = "العروض"
 LOGS = logging.getLogger(__name__)
 # code by t.me/zzzzl1l
-ZED_TEXT = gvarstatus("CUSTOM_ALIVE_TEXT") or "•⎚• مـعلومـات المسـتخـدم مـن بـوت ريبيثون"
+ZED_TEXT = gvarstatus("CUSTOM_ALIVE_TEXT") or "•⎚• مـعلومـات المسـتخـدم مـن بـوت ولف"
 ZEDM = gvarstatus("CUSTOM_ALIVE_EMOJI") or "✦ "
-ZEDF = gvarstatus("CUSTOM_ALIVE_FONT") or "⋆─┄─┄─┄─ 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘 ─┄─┄─┄─⋆"
-zed_dev = ( 5871764800, 5339964426)
-zel_dev = (5871764800, 5339964426)
-zelzal = (5871764800, 5339964426)
+ZEDF = gvarstatus("CUSTOM_ALIVE_FONT") or "⋆─┄─┄─┄─ 𝗪𝗢𝗟𝗙 ─┄─┄─┄─⋆"
+zed_dev = ( 6969088145, 6766128426)
+zel_dev = (6969088145, 6766128426)
+zelzal = (6969088145, 6766128426)
 
 
 async def get_user_from_event(event):
