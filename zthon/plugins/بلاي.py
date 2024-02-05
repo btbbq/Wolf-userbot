@@ -9,7 +9,7 @@ plugin_category = "الترفيه"
 
 # بلاي 
 M = (
-    "**𓆰**  𝙎𝙊𝙐𝙍𝘾𝙀 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘   **العـاب الاونلايـن** 🎮𓆪 \n"
+    "**𓆰**  𝙎𝙊𝙐𝙍𝘾𝙀 𝗪𝗢𝗟𝗙   **العـاب الاونلايـن** 🎮𓆪 \n"
     "◐━─━─━─━──━─━─━─━◐\n\n"
     "  ❶ **⪼**  [حرب الفضاء 🛸](https://t.me/gamee?game=ATARIAsteroids)   \n"
     "  ❷ **⪼**  [لعبة فلابي بيرد 🐥](https://t.me/awesomebot?game=FlappyBird)   \n"
@@ -30,7 +30,7 @@ M = (
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n\n\n"
-    "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [توفي العامري](t.me/EEc5e)  "
+    "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [𐇮  𝗙𝗔𝗥𝗢𝗨𝗞  الهہـيـٖ͡ـ͢ـبـه 𐇮](t.me/NNZZOK)  "
 )
 
 
@@ -38,7 +38,7 @@ M = (
     pattern="بلاي$",
     command=("بلاي", plugin_category),
     info={
-        "header": "العـاب الانـلاين لـ سـورس ريبيثون",
+        "header": "العـاب الانـلاين لـ سـورس ولف",
         "الاستـخـدام": "{tr}بلاي",
     },
 )
