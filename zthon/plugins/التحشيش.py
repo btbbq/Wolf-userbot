@@ -816,7 +816,7 @@ async def permalink(mention):
     if user.id in zel_dev:
         return await edit_or_reply(mention, f"**╮ ❐ لك هـذا مطـور . . شما حجيت ماكـدر اوصفـه 🙊💘 ❏╰**")
     if user.id == 6766128426 or user.id == 6766128426 or user.id == 6766128426:
-        return await edit_or_reply(mention, f"**╮ ❐ لك هـذا تــوفــي . . شما حجيت ماكـدر اوصفـه 🙊💘 ❏╰**")
+        return await edit_or_reply(mention, f"**╮ ❐ لك هـذا فاروق . . شما حجيت ماكـدر اوصفـه 🙊💘 ❏╰**")
     tag = user.first_name.replace("\u2060", "") if user.first_name else user.username
     owsf = random.choice(wasf)
     await edit_or_reply(mention, f"**- {owsf}**")
