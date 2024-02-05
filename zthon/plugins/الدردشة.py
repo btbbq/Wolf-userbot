@@ -96,15 +96,15 @@ async def _(event):
 async def _(event):
     user = await event.get_sender()
     if user.id == 6556390631:
-        await event.reply(" هلا بك محمد مطوري\nقناة السورس:@def_Zoka")
+        await event.reply(" هلا بك ولف مطوري\nقناة السورس:@INNV8")
 
 
 @jmisbest.on(events.NewMessage(outgoing=False, pattern="^تحية"))
 async def _(event):
     user = await event.get_sender()
-    if user.id == 6556390631:
+    if user.id == 6766128426:
         await event.reply(
-            "حاضر سيدي وتاج راسي جناب السيد الموقر محمد ريفز حفظه الله ☻️"
+            "حاضر سيدي وتاج راسي جناب السيد الموقر فاروق ولف حفظه الله ☻️"
         )
 
 
@@ -113,7 +113,7 @@ async def _(event):
     groups_only=True,
 )
 async def kickme(leave):
-    await leave.edit("**- حسنا الان انا سأغادر المجموعة\n مفعل ريفز اني @jmthon**")
+    await leave.edit("**- حسنا الان انا سأغادر المجموعة\n مفعل ولف اني @INNV8**")
     await leave.client.kick_participant(leave.chat_id, "me")
 
 
