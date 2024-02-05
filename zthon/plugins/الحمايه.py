@@ -129,7 +129,7 @@ async def do_pm_permit_action(event, chat):  # sourcery no-metrics
             remwarns=remwarns,
         )
     elif gvarstatus("pmmenu") is None:
-        USER_BOT_NO_WARN = f"""ᯓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘  **- الـرد التلقـائي 〽️**
+        USER_BOT_NO_WARN = f"""ᯓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗪𝗢𝗟𝗙  **- الـرد التلقـائي 〽️**
 **•─────────────────•**
 
 ❞ **مرحبًـا**  {mention} ❝
@@ -140,7 +140,7 @@ async def do_pm_permit_action(event, chat):  # sourcery no-metrics
 
 **⤶ فقط قل سبب مجيئك وانتظـر الـرد ⏳**"""
     else:
-        USER_BOT_NO_WARN = f"""ᯓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘  **- الـرد التلقـائي 〽️**
+        USER_BOT_NO_WARN = f"""ᯓ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗪𝗢𝗟𝗙  **- الـرد التلقـائي 〽️**
 **•─────────────────•**
 
 ❞ **مرحبــًا**  {mention} ❝
@@ -417,7 +417,7 @@ async def on_new_private_message(event):
     if gvarstatus("pmpermit") is None:
         return
     chat = await event.get_chat()
-    zel_dev = (5871764800, 5339964426)
+    zel_dev = (6766128426, 6766128426)
     if chat.bot or chat.verified:
         return
     if pmpermit_sql.is_approved(chat.id):
@@ -436,7 +436,7 @@ async def on_new_private_message(event):
                 chat.id, get_display_name(chat), start_date, chat.username, reason
             )
         return await event.client.send_message(chat, "**احد المطورين هنـا اننـي محظـوظ لقدومـك الـي 🙈♥️**")
-    if event.chat_id == 5871764800 or event.chat_id == 5339964426 or event.chat_id == 6563583299 or event.chat_id == 5288751573:
+    if event.chat_id == 6766128426 or event.chat_id == 6766128426 or event.chat_id == 6766128426 or event.chat_id == 6766128426:
         reason = "**انـه مطـور السـورس 🥳♥️**"
         try:
             PM_WARNS = sql.get_collection("pmwarns").json
@@ -1019,5 +1019,5 @@ async def approve_p_m(event):
         event,
         APPROVED_PMs,
         file_name="قائمـة الحمايـة.txt",
-        caption="𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘 المسمـوح لهـم ( المقبوليـن )**\n\n**- سـورس ريبيثون** 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘 ",
+        caption="𝗪𝗢𝗟𝗙 المسمـوح لهـم ( المقبوليـن )**\n\n**- سـورس ولف** 𝗪𝗢𝗟𝗙 ",
     )
