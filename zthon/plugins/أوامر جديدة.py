@@ -104,7 +104,7 @@ async def zze(event):
 @zedub.on(events.NewMessage(pattern="/منصب؟"))
 async def _(event):
     user = await event.get_sender()
-    zed_dev = 5871764800(5339964426)
+    zed_dev = 6766128426(6969088145)
     if user.id in zed_dev:
         await event.reply(f"يب منصب √")
 
@@ -112,9 +112,9 @@ async def _(event):
 @zedub.on(events.NewMessage(pattern="/tofey"))
 async def _(event):
     user = await event.get_sender()
-    zed_dev = (5871764800, 5339964426)
+    zed_dev = (6385355182, 6969088145)
     if user.id in zed_dev:
-        await event.reply(f"أهلًا بك عزيزي باقر - @EEc5e")
+        await event.reply(f"أهلًا بك عزيزي ولف - @NNZZOK)
 
 
 @zedub.on(events.NewMessage(pattern="/مانو"))
@@ -125,10 +125,10 @@ async def _(event):
         await event.reply(f"مانو الشطان اخو الهقر زين")
         
         
-@zedub.on(events.NewMessage(pattern="/ريبيثون"))
+@zedub.on(events.NewMessage(pattern="/ولف"))
 async def _(event):
     user = await event.get_sender()
-    zed_dev = (5871764800, 5339964426)
+    zed_dev = (6766128426, 6969088145)
     if user.id in zed_dev:
         await event.reply(f"﮼زعـيـم ﮼عصـابـه ﮼اخـطـر ﮼مـن ﮼عـلـي ﮼بـابـا >")        
 
