@@ -22,7 +22,7 @@ LOGS = logging.getLogger(__name__)
 ZDEV = gvarstatus("sudoenable") or "true"
 
 ZelzalDV_cmd = (
-    "𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗪𝗢𝗟𝗙 - مطورين ولف ](t.me/Repethone) 𓆪\n\n"
+    "𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗪𝗢𝗟𝗙 - مطورين ولف ](t.me/INNV8) 𓆪\n\n"
     "⪼ 💎المطور ولف @NNZZOK \n"
 )
 
